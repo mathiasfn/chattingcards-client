@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: roboto;
+    src:local("/fonts/Roboto-Regular.ttf");
+}
+
+body {
+    background-color: #d5bdaf;
+    /*font-family: roboto;*/
+}
